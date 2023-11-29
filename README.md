@@ -1,5 +1,5 @@
 
-**Logistical Performance Dashboard**
+**Logistical Performance Dashboard**📊
 
 In this project, I used Excel to create an interactive dashboard that displays key performance indicators (KPIs) for a logistics company. The dashboard allows the user to filter and analyze data by different criteria, such as time period, region, vehicle type, and driver. The dashboard also provides visualizations of the data, such as charts, tables, and maps, to help the user identify trends, patterns, and outliers.
 
