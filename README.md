@@ -14,7 +14,7 @@ The data source for this project was a the company's internal tracking and ERP d
 The dashboard consists of various worksheets: OPS Dashboard, Yearly Revenue and Monthly Mileage Performance. The OPS Dashboard worksheet provides a summary of the overall daily, monthly and yearly performance of the company, such as total revenue, total mileage, average revenue per month, and average truck daily commentary. The Yearly Revenue worksheet provides a detailed analysis of the revenue performance by different criteria, such as months, vehicle registration, and driver. The Mileage worksheet provides a detailed analysis of the mileage performance by different criteria, such as kilometres covered, Average monthly mileage covered, and target vs actual performances. The dashboard also has a navigation bar that allows the user to switch between the worksheets easily and intuitively.
 
 The dashboard is intended to help the directors and stakeholders of the logistics company to monitor and evaluate the performance of their fleet, identify areas of improvement and opportunity, and make informed and strategic business decisions. The dashboard is also designed to be flexible and adaptable, so that it can accommodate different scenarios and preferences of the user. The dashboard is a powerful and practical tool that showcases my skill in using Excel for data analysis and visualization.
-# My Project
+# Project Visualization
 ![Logistics Platform Visualization 6](https://github.com/SteveJoe-cloud/PortfolioProjects/assets/142490273/c0aa8f43-4ee3-47ef-a788-8fd204d3683b)
 
 ![Logistics Platform Visualization 7](https://github.com/SteveJoe-cloud/PortfolioProjects/assets/142490273/8746f7f6-7851-493f-b18a-9bf118abfc71)
