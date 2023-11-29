@@ -27,7 +27,8 @@ The dashboard is intended to help the directors and stakeholders of the logistic
 
 ![Logistics Platform Visualization 4](https://github.com/SteveJoe-cloud/PortfolioProjects/assets/142490273/be82eb22-5846-4dd7-8f04-517650891b1c)
 
-![Logistics Platform Visualization 3](https://github.com/SteveJoe-cloud/PortfolioProjects/assets/142490273/df07dc07-7a75-4848-b887-2c9ffab9420c)
+![Logistics Platform Visualization 8](https://github.com/SteveJoe-cloud/Excel-Logistics-Projects/assets/142490273/f1b4ddd7-4cd3-4477-8a22-d78721b4235b)
+
 
 
 
