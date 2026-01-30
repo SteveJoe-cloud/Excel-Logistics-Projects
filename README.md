@@ -15,6 +15,11 @@ The dashboard consists of various worksheets: OPS Dashboard, Yearly Revenue and 
 
 The dashboard is intended to help the directors and stakeholders of the logistics company to monitor and evaluate the performance of their fleet, identify areas of improvement and opportunity, and make informed and strategic business decisions. The dashboard is also designed to be flexible and adaptable, so that it can accommodate different scenarios and preferences of the user. The dashboard is a powerful and practical tool that showcases my skill in using Excel for data analysis and visualization.
 # Project Visualization
+
+| Executive Summary (Home) | Fleet Report (Overview) | Workshop Report | Revenue Tracker | Client Tracker |
+| --- | --- | --- | --- | --- |
+| ![Executive Summary](https://github.com/SteveJoe-cloud/Excel-Logistics-Projects/blob/main/assets/Exec%20Summary-%20Operations%20Dashboard.png) | ![Fleet Report](https://github.com/SteveJoe-cloud/Excel-Logistics-Projects/blob/main/assets/Fleet%20report-%20Operations%20Dashboard.png) | ![Workshop report](https://github.com/SteveJoe-cloud/Excel-Logistics-Projects/blob/main/assets/Workshop%20report-%20Operations%20Dashboard.png) | ![Revenue Tracker](https://github.com/SteveJoe-cloud/Excel-Logistics-Projects/blob/main/assets/Revenue%20Tracker-%20Operations%20Dashboard.png) | ![Client Tracker](https://github.com/SteveJoe-cloud/Excel-Logistics-Projects/blob/main/assets/Client%20Tracker-%20Operations%20Dashboard.png) |
+
 ![Logistics Platform Visualization 6](https://github.com/SteveJoe-cloud/PortfolioProjects/assets/142490273/c0aa8f43-4ee3-47ef-a788-8fd204d3683b)
 
 ![Logistics Platform Visualization 7](https://github.com/SteveJoe-cloud/PortfolioProjects/assets/142490273/8746f7f6-7851-493f-b18a-9bf118abfc71)
