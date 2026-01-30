@@ -20,19 +20,6 @@ The dashboard is intended to help the directors and stakeholders of the logistic
 | --- | --- | --- | --- | --- |
 | ![Executive Summary](https://github.com/SteveJoe-cloud/Excel-Logistics-Projects/blob/main/assets/Exec%20Summary-%20Operations%20Dashboard.png) | ![Fleet Report](https://github.com/SteveJoe-cloud/Excel-Logistics-Projects/blob/main/assets/Fleet%20report-%20Operations%20Dashboard.png) | ![Workshop report](https://github.com/SteveJoe-cloud/Excel-Logistics-Projects/blob/main/assets/Workshop%20report-%20Operations%20Dashboard.png) | ![Revenue Tracker](https://github.com/SteveJoe-cloud/Excel-Logistics-Projects/blob/main/assets/Revenue%20Tracker-%20Operations%20Dashboard.png) | ![Client Tracker](https://github.com/SteveJoe-cloud/Excel-Logistics-Projects/blob/main/assets/Client%20Tracker-%20Operations%20Dashboard.png) |
 
-![Logistics Platform Visualization 6](https://github.com/SteveJoe-cloud/PortfolioProjects/assets/142490273/c0aa8f43-4ee3-47ef-a788-8fd204d3683b)
-
-![Logistics Platform Visualization 7](https://github.com/SteveJoe-cloud/PortfolioProjects/assets/142490273/8746f7f6-7851-493f-b18a-9bf118abfc71)
-
-![Logistics Platform Visualization 2](https://github.com/SteveJoe-cloud/PortfolioProjects/assets/142490273/3d4c6e67-35ef-482c-90b5-237d15b42a88)
-
-![Logistics Platform Visualization 1](https://github.com/SteveJoe-cloud/PortfolioProjects/assets/142490273/6a5c656a-dcaa-40c7-af8e-3c3846c2497b)
-
-![Logistics Platform Visualization 5](https://github.com/SteveJoe-cloud/PortfolioProjects/assets/142490273/e00cdd5f-803a-4f12-b3ec-c6342c8911e1)
-
-![Logistics Platform Visualization 4](https://github.com/SteveJoe-cloud/PortfolioProjects/assets/142490273/be82eb22-5846-4dd7-8f04-517650891b1c)
-
-![Logistics Platform Visualization 8](https://github.com/SteveJoe-cloud/Excel-Logistics-Projects/assets/142490273/f1b4ddd7-4cd3-4477-8a22-d78721b4235b)
 
 
 
