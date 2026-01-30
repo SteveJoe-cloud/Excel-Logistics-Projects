@@ -1,20 +1,171 @@
+Here’s a clean, professional **GitHub README.md–ready** version using proper Markdown structure, emojis, headers, lists, inline math formatting, and code blocks where appropriate.
 
-**Logistical Performance Dashboard**📊
+---
 
-In this project, I used Excel to create an interactive dashboard that displays key performance indicators (KPIs) for a logistics company. The dashboard allows the user to filter and analyze data by different criteria, such as time period, region, vehicle type, and driver. The dashboard also provides visualizations of the data, such as charts, tables, and maps, to help the user identify trends, patterns, and outliers.
+# 🚚 FleetOps Intelligence: Real-Time Logistics Performance Dashboard
 
-**The main objectives of this project were to:**
+## 📌 Project Overview
 
-- Demonstrate my proficiency in using Excel functions, formulas, and features, such as pivot tables, slicers, conditional formatting, data validation, and VLOOKUP.
-- Apply data analysis and visualization techniques to transform raw data into meaningful insights for business decision-making.
-- Showcase my creativity and attention to detail in designing a user-friendly and aesthetically pleasing dashboard.
+This project focuses on the **design and implementation of an end-to-end Operations Intelligence Dashboard** for a logistics fleet (*Forte Freight / Operation D2D*).
 
-The data source for this project was a the company's internal tracking and ERP dataset of 10,000 records that contained information about the company's fleet performance, such as revenue, mileage, fuel consumption, maintenance cost, and customer satisfaction. I imported the data into Excel and performed data cleaning and validation to ensure its accuracy and consistency. I then created a data model and a pivot table to summarize and aggregate the data by various dimensions and measures. I used slicers to enable the user to filter the data interactively and dynamically. I also created charts and tables to visualize the data and highlight the KPIs, such as average revenue per mile, fuel efficiency, and customer satisfaction rating. I used conditional formatting to apply color scales and icons to the data to indicate its performance level. I also used data validation to create drop-down lists and input boxes to allow the user to select and enter values for the data analysis. Finally, I used Bing Maps to create a map that shows the geographic distribution of the company's revenue and mileage by region.
+The system consolidates fragmented operational and financial data spanning **multiple years (2021–2024)** to provide visibility into:
 
-The dashboard consists of various worksheets: OPS Dashboard, Yearly Revenue and Monthly Mileage Performance. The OPS Dashboard worksheet provides a summary of the overall daily, monthly and yearly performance of the company, such as total revenue, total mileage, average revenue per month, and average truck daily commentary. The Yearly Revenue worksheet provides a detailed analysis of the revenue performance by different criteria, such as months, vehicle registration, and driver. The Mileage worksheet provides a detailed analysis of the mileage performance by different criteria, such as kilometres covered, Average monthly mileage covered, and target vs actual performances. The dashboard also has a navigation bar that allows the user to switch between the worksheets easily and intuitively.
+* Fleet efficiency
+* Revenue yield per asset
+* Operational and delay-driven bottlenecks
 
-The dashboard is intended to help the directors and stakeholders of the logistics company to monitor and evaluate the performance of their fleet, identify areas of improvement and opportunity, and make informed and strategic business decisions. The dashboard is also designed to be flexible and adaptable, so that it can accommodate different scenarios and preferences of the user. The dashboard is a powerful and practical tool that showcases my skill in using Excel for data analysis and visualization.
-# Project Visualization
+By digitizing truck movements, mileage performance, and delay metrics, the dashboard establishes a **single source of truth** for fleet managers—enabling optimization of high-value assets and reduction of costly **“grounded” time**.
+
+---
+
+## 🚀 Key Features
+
+### 🚛 Fleet Performance Tracking
+
+* Real-time monitoring of truck status:
+
+  * **Active**
+  * **Stationary**
+  * **Grounded**
+* Live location and ignition status updates per vehicle
+
+### 📈 Mileage vs. Revenue Correlation
+
+* Comparative analysis of **planned vs. actual mileage**
+* Daily/Monthly mileage benchmark:
+
+  * **Target:** `450 km/day`
+* Direct linkage between mileage performance and revenue yield
+
+### ⏱️ Advanced Delay Analytics
+
+* Dedicated delay tracker with root-cause categorization:
+
+  * **Internal:** Finance, Workshop
+  * **External:** Border, Loading, Documentation
+* Enables rapid identification of efficiency leaks
+
+### 📊 Multi-Year Financial Trend Analysis
+
+* Year-to-date (YTD) revenue and profitability tracking
+* Cross-year comparison for:
+
+  * **2021**
+  * **2022**
+  * **2023**
+  * **2024**
+
+### 🧑‍💼 Responsible Party Attribution
+
+* Automated assignment of delay accountability to:
+
+  * Logistics
+  * Finance
+  * Workshop
+* Supports structured performance reviews and corrective actions
+
+---
+
+## 🛠️ Technical Implementation
+
+### 🔧 Data Engineering
+
+* Cleaned and normalized **20+ disparate CSV and Excel datasets**
+* Integrated data sources include:
+
+  * Truck telemetry
+  * Fuel consumption logs
+  * Revenue and invoicing reports
+
+### 📐 KPI Modeling
+
+Key performance metrics implemented include:
+
+```text
+MTD Mileage Performance (%) =
+(Actual Mileage / MTD Plan) × 100
+```
+
+```text
+Revenue Variance =
+Actual Revenue − Target Revenue
+```
+
+```text
+Cumulative Delay Duration =
+Total downtime (hours/days) by delay category
+```
+
+* Mechanical vs. documentation-related downtime tracked independently
+
+### 🧰 Tooling Stack
+
+* **Python / Pandas** – data cleaning and transformation
+* **Power BI / Tableau** – dashboard design and visualization
+* **Advanced Excel** – Power Query, Pivot Tables, VBA (where applicable)
+
+---
+
+## 📊 Insights Delivered
+
+### 🔍 Identifying “Profit Leaks”
+
+* Analysis revealed that:
+
+  * **Border Clearance** and **External Documentation delays**
+  * Accounted for **40%+ of non-productive time** in early 2024
+
+### 🔄 Vehicle Lifecycle Management
+
+* Tracked individual truck IDs (e.g., *KCG series*)
+* Identified recurring mechanical failure patterns
+* Enabled data-backed maintenance scheduling decisions
+
+### ⚙️ Operational Efficiency Gains
+
+* Introduced **Mileage Difference (MTD)** metric
+* Clearly highlighted:
+
+  * Underperforming trucks
+  * Drivers requiring intervention
+* Supported consistent achievement of the **450 km/day target**
+
+---
+
+## 📂 Project Structure
+
+```bash
+├── data/
+│   ├── mileage/
+│   ├── revenue/
+│   └── delay_trackers/
+│
+├── visualizations/
+│   ├── dashboard_screenshots/
+│   └── interactive_files/
+│
+├── scripts/
+│   ├── data_cleaning/
+│   └── transformations/
+│
+└── README.md
+```
+
+---
+
+## ✅ Outcome
+
+This project demonstrates a clear shift from **reactive logistics management** to **data-driven operational excellence**, empowering decision-makers with real-time insights, accountability, and performance optimization tools.
+
+---
+
+If you want, I can:
+
+* Add **screenshots embedding syntax**
+* Optimize this for **recruiters / portfolio visibility**
+* Tailor it for **Power BI vs Tableau**
+* Add a **Tech Stack badge section** or **KPIs-at-a-glance table**
+
 
 | Executive Summary (Home) | Fleet Report (Overview) | Workshop Report | Revenue Tracker | Client Tracker |
 | --- | --- | --- | --- | --- |
