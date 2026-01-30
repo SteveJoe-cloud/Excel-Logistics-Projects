@@ -1,7 +1,3 @@
-Here’s a clean, professional **GitHub README.md–ready** version using proper Markdown structure, emojis, headers, lists, inline math formatting, and code blocks where appropriate.
-
----
-
 # 🚚 FleetOps Intelligence: Real-Time Logistics Performance Dashboard
 
 ## 📌 Project Overview
@@ -98,17 +94,17 @@ Total downtime (hours/days) by delay category
 
 * Mechanical vs. documentation-related downtime tracked independently
 
-### 🧰 Tooling Stack
+### 🧰 Tech Stack
 
 * **Python / Pandas** – data cleaning and transformation
-* **Power BI / Tableau** – dashboard design and visualization
+* **Replit / Power BI / Tableau** – dashboard design and visualization
 * **Advanced Excel** – Power Query, Pivot Tables, VBA (where applicable)
 
 ---
 
 ## 📊 Insights Delivered
 
-### 🔍 Identifying “Profit Leaks”
+### 🔍 Identifying “Profit Leaks.”
 
 * Analysis revealed that:
 
@@ -132,7 +128,7 @@ Total downtime (hours/days) by delay category
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure & Visualization
 
 ```bash
 ├── data/
@@ -158,14 +154,6 @@ Total downtime (hours/days) by delay category
 This project demonstrates a clear shift from **reactive logistics management** to **data-driven operational excellence**, empowering decision-makers with real-time insights, accountability, and performance optimization tools.
 
 ---
-
-If you want, I can:
-
-* Add **screenshots embedding syntax**
-* Optimize this for **recruiters / portfolio visibility**
-* Tailor it for **Power BI vs Tableau**
-* Add a **Tech Stack badge section** or **KPIs-at-a-glance table**
-
 
 | Executive Summary (Home) | Fleet Report (Overview) | Workshop Report | Revenue Tracker | Client Tracker |
 | --- | --- | --- | --- | --- |
